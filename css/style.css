@@ -22,8 +22,7 @@
 }
 .image1{
     background-image: url(/image/photo_2021-03-10_17-52-58.jpg);
-    background-position: center;
-    background-size: contain;
+    background-size: 498px 846px;
 }
 .image2{
     background-image: url(/image/photo_2022-07-15_23-08-05.jpg);
@@ -31,19 +30,19 @@
 }
 .image3{
     background-image: url(/image/photo_2022-07-17_22-58-52.jpg);
-     background-size: cover;
+    background-size: 498px 846px;
 }
 .image4{
     background-image: url(/image/photo_2023-05-25_19-41-15.jpg);
-    background-size: cover;
+    background-size: 498px 846px;
 }
 .image5{
     background-image: url(/image/photo_2023-07-18_22-18-06.jpg);
-    background-size: cover;
+    background-size: 498px 846px;
 }
 .image6{
     background-image: url(/image/photo_2024-11-25_01-50-15.jpg);
-    background-size: cover;
+    background-size: 498px 846px;
 }
 .image7{
     background-image: url(/image/photo_2026-03-21_01-22-59.jpg);
