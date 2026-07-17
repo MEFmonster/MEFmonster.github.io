@@ -46,10 +46,26 @@
 }
 .image7{
     background-image: url(/image/photo_2026-03-21_01-22-59.jpg);
-    background-size: cover;
+    background-size: 498px 846px;
 }
 .image8{
     background-image: url(/image/photo_2026-07-17_02-31-27.jpg);
-    background-size: cover;
+    background-size: 498px 846px;
+}
+.image9{
+    background-image: url(/image/LV4xjF1.gif);
+    background-size: 498px 846px;
+}
+
+.podarok{
+    position: relative;
+    margin-left: 150px;
+    margin-top: 420px;
+    background-color: #007bff; /* Blue background */
+    color: white; /* White text */
+    border: none; /* No border */
+    padding: 10px 20px; /* Padding around the text */
+    font-size: 16px;
+    cursor: pointer; /* Changes the mouse cursor to a hand when hovering over the button */
 }
 
